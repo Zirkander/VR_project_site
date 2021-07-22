@@ -1,0 +1,25 @@
+{
+  "name": "VR_project_site",
+  "version": "1.0.0",
+  "description": "A site for a VR Arcade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zirkander/VR_project_site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zirkander/VR_project_site/issues"
+  },
+  "homepage": "https://github.com/Zirkander/VR_project_site#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
